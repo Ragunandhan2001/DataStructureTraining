@@ -1,3 +1,4 @@
+print("Hash Map")
 class HashMap:
 
     def __init__(self,size):
@@ -38,3 +39,4 @@ hm['name'] = "mani"
 hm["age"] =100
 del hm["name"]
 print(hm.hashlist)
+
